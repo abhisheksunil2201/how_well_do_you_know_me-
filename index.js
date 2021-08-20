@@ -39,6 +39,10 @@ function game() {
       question: "Who is Abhishek's favourite football player?",
       answer: "cristiano ronaldo",
     },
+    {
+      question: "Which is Abhishek's favourite sitcom?",
+      answer: "friends"
+    }
   ];
 
   for (let i = 0; i < questions.length; i++) {
